@@ -126,3 +126,28 @@ $ curl http://<host>:8080/api/cart/metrics
 $ curl http://<host>:8080/api/payment/metrics
 ```
 
+
+𝑾𝒐𝒓𝒌 𝑺𝒏𝒂𝒑𝒔𝒉𝒐𝒕𝒔 :
+
+![Screenshot 2024-11-27 111622](https://github.com/user-attachments/assets/21568f74-6c49-47e9-8a01-ea36eebe05c2)
+
+![Screenshot 2024-11-27 115103](https://github.com/user-attachments/assets/56adf80d-4084-42e8-be44-2929381bdeca)
+
+![Screenshot 2024-11-27 201226](https://github.com/user-attachments/assets/bd2bbdc1-89e9-4c12-ba75-5bac78556e32)
+
+![Screenshot 2024-11-27 200746](https://github.com/user-attachments/assets/5d05e61b-6972-4800-ae5e-5da39198b412)
+
+![Screenshot 2024-11-27 200839](https://github.com/user-attachments/assets/0dc2268e-052c-45d2-9f9f-fd344827fe0a)
+
+![Screenshot 2024-11-27 201034](https://github.com/user-attachments/assets/3b807b9c-d0bd-45bc-87e8-09f8ea8e1fdd)
+
+![Screenshot 2024-11-27 201034](https://github.com/user-attachments/assets/5b100058-6f66-4903-94f1-32a39ef36aa3)
+
+
+
+
+
+
+
+
+
