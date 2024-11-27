@@ -135,6 +135,8 @@ $ curl http://<host>:8080/api/payment/metrics
 
 ![Screenshot 2024-11-27 201226](https://github.com/user-attachments/assets/bd2bbdc1-89e9-4c12-ba75-5bac78556e32)
 
+![Screenshot 2024-11-27 200704](https://github.com/user-attachments/assets/b1b1e421-73fb-444b-a280-c2fffcd11aed)
+
 ![Screenshot 2024-11-27 200746](https://github.com/user-attachments/assets/5d05e61b-6972-4800-ae5e-5da39198b412)
 
 ![Screenshot 2024-11-27 200839](https://github.com/user-attachments/assets/0dc2268e-052c-45d2-9f9f-fd344827fe0a)
